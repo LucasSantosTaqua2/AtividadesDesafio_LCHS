@@ -1,0 +1,15 @@
+E:\ProjetosAMS-PI\Atividade3D\bin\Debug\net6.0\Atividade3D.exe
+E:\ProjetosAMS-PI\Atividade3D\bin\Debug\net6.0\Atividade3D.deps.json
+E:\ProjetosAMS-PI\Atividade3D\bin\Debug\net6.0\Atividade3D.runtimeconfig.json
+E:\ProjetosAMS-PI\Atividade3D\bin\Debug\net6.0\Atividade3D.dll
+E:\ProjetosAMS-PI\Atividade3D\bin\Debug\net6.0\ref\Atividade3D.dll
+E:\ProjetosAMS-PI\Atividade3D\bin\Debug\net6.0\Atividade3D.pdb
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.csproj.AssemblyReference.cache
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.AssemblyInfoInputs.cache
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.AssemblyInfo.cs
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.csproj.CoreCompileInputs.cache
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.dll
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\ref\Atividade3D.dll
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.pdb
+E:\ProjetosAMS-PI\Atividade3D\obj\Debug\net6.0\Atividade3D.genruntimeconfig.cache

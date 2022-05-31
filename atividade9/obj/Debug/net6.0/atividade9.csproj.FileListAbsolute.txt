@@ -1,0 +1,15 @@
+G:\ProjetosAMS-PI\atividade9\bin\Debug\net6.0\atividade9.exe
+G:\ProjetosAMS-PI\atividade9\bin\Debug\net6.0\atividade9.deps.json
+G:\ProjetosAMS-PI\atividade9\bin\Debug\net6.0\atividade9.runtimeconfig.json
+G:\ProjetosAMS-PI\atividade9\bin\Debug\net6.0\atividade9.dll
+G:\ProjetosAMS-PI\atividade9\bin\Debug\net6.0\atividade9.pdb
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.csproj.AssemblyReference.cache
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.AssemblyInfoInputs.cache
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.AssemblyInfo.cs
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.csproj.CoreCompileInputs.cache
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.dll
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\refint\atividade9.dll
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.pdb
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\atividade9.genruntimeconfig.cache
+G:\ProjetosAMS-PI\atividade9\obj\Debug\net6.0\ref\atividade9.dll
